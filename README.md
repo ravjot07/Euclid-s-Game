@@ -33,12 +33,12 @@ The educational goal is to familiarize children with the idea behind the Euclide
 **Running inside Sugar**
 - Clone the Repository:
    ```
-   git clone https://github.com/ravjot07/FifteenPuzzle
-   cd FifteenPuzzle
+   git clone https://github.com/ravjot07/Euclid-s-Game
+   cd Euclid-s-Game
    ```
 -   Open Terminal activity and change to the Fifteen Puzzle activity directory
 ```
-cd \FifteenPuzzle
+cd \Euclid-s-Game
 ```
 
 -   To run
