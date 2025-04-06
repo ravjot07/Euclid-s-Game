@@ -1,0 +1,6 @@
+activity/activity.info
+activity/activity-euclidsgame.svg
+MANIFEST
+setup.py
+activity.py
+game_logic.py

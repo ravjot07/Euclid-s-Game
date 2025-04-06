@@ -1,0 +1,7 @@
+[Activity]
+name = EuclidsGame
+activity_version = 1
+bundle_id = org.sugarlabs.EuclidsGame
+exec = sugar-activity3 activity.EuclidsGameActivity
+icon = activity-euclidsgame
+license = GPLv3+
